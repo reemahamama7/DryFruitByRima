@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.swiper-button-next,
+.swiper-button-prev {
+  color: #805e36;
+  font-size: 1.5rem;
+}
+
+.swiper-button-next:hover,
+.swiper-button-prev:hover {
+  color: #6b4e2b;
+}
+body {
+  overflow-x: hidden;
+}
+.swiper {
+  overflow: hidden; /* Ensures no overflow issues */
+}
+.swiper-wrapper {
+  display: flex;
+}
+
+.swiper-pagination-bullet {
+  background-color: #d9d9d9; /* Default bullet color */
+  opacity: 0.8; /* Slightly transparent */
+  transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #805e36 !important; /* Active bullet color (brown) */
+  opacity: 1; /* Fully opaque */
+}
