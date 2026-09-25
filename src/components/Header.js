@@ -14,7 +14,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-2 flex flex-col sm:flex-row justify-between items-center">
         {/* Left Section */}
         <div className="flex items-center space-x-4 text-white text-sm">
-          <a href="#" className="flex items-center space-x-1">
+          <a href="/products" className="flex items-center space-x-1">
             <i className="fas fa-phone-alt"></i>
             <span>+965 516 75316</span>
           </a>
@@ -45,7 +45,7 @@ const Header = () => {
             <NavLink to="/" className={({ isActive }) => (isActive ? "text-gray-600 font-bold" : "text-gray-600 hover:text-[#805e36] transition")}>
               Home
             </NavLink>
-            <NavLink to="#" className={({ isActive }) => (isActive ? "text-gray-600 font-bold" : "text-gray-600 hover:text-[#805e36] transition")}>
+            <NavLink to="/products" className={({ isActive }) => (isActive ? "text-gray-600 font-bold" : "text-gray-600 hover:text-[#805e36] transition")}>
               Dry Fruits and Nuts
             </NavLink>
 
@@ -90,7 +90,7 @@ const Header = () => {
             <NavLink to="/" className="block text-gray-600 hover:text-[#805e36] py-2" onClick={handleMenuToggle}>
               Home
             </NavLink>
-            <a href="#" className="block text-gray-600 hover:text-[#805e36] py-2" onClick={handleMenuToggle}>
+            <a href="/products" className="block text-gray-600 hover:text-[#805e36] py-2" onClick={handleMenuToggle}>
               Dry Fruits and Nuts
             </a>
             <NavLink to="/products" className="block text-gray-600 hover:text-[#805e36] py-2" onClick={handleMenuToggle}>

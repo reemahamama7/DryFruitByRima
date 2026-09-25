@@ -13,27 +13,27 @@ const Footer = () => {
 
               <ul className="space-y-2 text-gray-600">
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     HOME
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     ABOUT
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     SHOP
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     BLOGS
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     CONTACT
                   </a>
                 </li>
@@ -45,27 +45,27 @@ const Footer = () => {
               <h4 className="text-lg font-semibold text-gray-900"></h4>
               <ul className="space-y-2 text-gray-600">
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     HOME
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     ABOUT
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     SHOP
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     BLOGS
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     CONTACT
                   </a>
                 </li>
@@ -78,27 +78,27 @@ const Footer = () => {
 
               <ul className="space-y-2 text-gray-600">
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     TRACK YOUR ORDER
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     RETURNS POLICIES
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     SHIPPING + DELIVERY
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     CONTACT US
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-gray-900">
+                  <a href="/products" className="hover:text-gray-900">
                     FAQS
                   </a>
                 </li>
@@ -130,11 +130,11 @@ const Footer = () => {
           <div className="border-t border-gray-200 mt-10 pt-6 text-center space-y-4">
             <p className="text-gray-600">
               © Copyright 2024 Fresh Dry Fruits. Design by{" "}
-              <a href="#" className="hover:text-gray-900">
+              <a href="/products" className="hover:text-gray-900">
                 UPNQ8
               </a>
               . Distribution by{" "}
-              <a href="#" className="hover:text-gray-900">
+              <a href="/products" className="hover:text-gray-900">
                 UPNQ8
               </a>
               .

@@ -2,11 +2,8 @@
 node_modules/
 .env
 dist/
-build/
-Dry/
-v2/
-v4/
-V3/
+
+
 *.log
 # testing
 /coverage
